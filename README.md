@@ -6,8 +6,6 @@
 
 
 
-
-
 ### Links Úteis :upside_down_face:
 
 - [Downloand Git](https://git-scm.com/downloads)
