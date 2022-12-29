@@ -1,4 +1,4 @@
-## Primeiro Repositório GitHub - GFT :100:
+## Primeiro Repositório GitHub - GFT :facepunch:
 
 1. Projeto Git/GitHub
 2. Guia de Comandos Git
