@@ -1,7 +1,7 @@
 ## Quality Assurance - GFT :100:
 
 1. Projeto Git/GitHub
-2. Significado de cada comando Git
+2. Guia de Comandos Git
 3. Anotações
 
 
