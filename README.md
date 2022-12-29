@@ -1,4 +1,4 @@
-## Quality Assurance - GFT :100:
+## Primeiro Repositório GitHub :100:
 
 1. Projeto Git/GitHub
 2. Guia de Comandos Git
