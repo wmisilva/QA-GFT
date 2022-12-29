@@ -1,8 +1,6 @@
 ## Guia Rápido e Comandos Básicos para Iniciantes :pushpin:
 
-O **Git** é um repositório (inventário, coleção) para seus códigos. Com ele, você pode voltar ao passado no seu código, através do **commits** .
-
-O **Github** é o seu repositório na nuvem.
+O **Git** é um repositório (inventário, coleção) para seus códigos. Com ele, você pode voltar ao passado no seu código, através do **commits**. O **Github** é o seu repositório na nuvem.
 
 1. **Git clone** - Git clone é uma comando para baixar o código-fonte existente de um repositório remoto (como, por exemplo, o Github). Em outras palavras, git clone, basicamente, faz uma cópia idêntica da versão mais recente de um projeto em um repositório e a salva em seu computador.
 
@@ -12,6 +10,6 @@ O **Github** é o seu repositório na nuvem.
 5. **Git add** - Ao criarmos, modificarmos ou excluirmos um arquivo, essas alterações acontecerão em nosso espaço de trabalho local e não serão incluídas no próximo commit (a menos que alteremos as configurações). Precisamos usar o comando git add para incluir as alterações de um ou vários arquivos em nosso próximo commit.
 6. **Git commit** - Talvez esse seja o comando mais usado do Git. Quando chegamos a determinado ponto em desenvolvimento, queremos salvar nossas alterações (talvez após uma tarefa ou resolução de problema específica). Git commit é como definir um ponto de verificação no processo de desenvolvimento. Você pode voltar a esse ponto mais tarde, se necessário. Também precisamos escrever uma mensagem breve para explicar o que desenvolvemos ou alteramos no código-fonte.
 7. **Git push** - Após fazer o commit de suas alterações, a próxima coisa a fazer é enviar suas alterações ao servidor remoto. Git push faz o upload dos seus commits no repositório remoto.
-8. **Git pull** - O comando ***\*git pull\**** é usado para obter as atualizações de um repositório remoto. Esse comando é uma combinação de ***\*git fetch\**** e ***\*git merge\****, o que significa que, quando usamos git pull, ele recebe as atualizações do repositório remoto (git fetch) e aplica imediatamente as alterações mais recentes em seu espaço de trabalho local (git merge).
+8. **Git pull** - O comando git pull é usado para obter as atualizações de um repositório remoto. Esse comando é uma combinação de git fetch e git merge, o que significa que, quando usamos git pull, ele recebe as atualizações do repositório remoto (git fetch) e aplica imediatamente as alterações mais recentes em seu espaço de trabalho local (git merge).
 9. **Git revert** - Às vezes, precisamos desfazer as alterações que fizemos. Existem várias maneiras de se desfazer as alterações em nosso espaço de trabalho local ou remotamente (dependendo do que você necessita), mas devemos usar esses comandos com cuidado para evitar exclusões indesejadas. Uma maneira segura de desfazer nossos commits é usando git revert. 
 10. **Git merge** - Quando você concluir o desenvolvimento em sua branch e quando tudo funcionar bem, a etapa final é fazer o merge (mesclar ou unir, em português) da branch com a branch pai (dev ou master/main, em geral). Isso é feito com o comando git merge. Git merge, basicamente, integra sua branch com o recurso e todos os seus commits na branch de desenvolvimento (dev) ou na branch principal (master ou main). É importante lembrar que, primeiro, você precisa estar na branch específica na qual você quer fazer o merge de sua branch com o recurso.
