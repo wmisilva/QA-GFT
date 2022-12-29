@@ -1,4 +1,4 @@
-## Guia rápido e Comandos básicos para iniciantes :pushpin:
+## Guia Rápido e Comandos Básicos para Iniciantes :pushpin:
 
 O **Git** é um repositório (inventário, coleção) para seus códigos. Com ele, você pode voltar ao passado no seu código, através do **commits** .
 
