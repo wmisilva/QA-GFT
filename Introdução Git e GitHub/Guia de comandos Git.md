@@ -1,6 +1,6 @@
 ## Guia Rápido e Comandos Básicos para Iniciantes :pushpin:
 
-O **Git** é um repositório (inventário, coleção) para seus códigos. Com ele, você pode voltar ao passado no seu código, através do **commits**. O **Github** é o seu repositório na nuvem.
+O **Git** é um repositório (inventário, coleção) para seus códigos. Com ele, você pode voltar ao passado no seu código, através do ***commits***. O **Github** é o seu repositório na nuvem.
 
 1. **Git clone** - Git clone é uma comando para baixar o código-fonte existente de um repositório remoto (como, por exemplo, o Github). Em outras palavras, git clone, basicamente, faz uma cópia idêntica da versão mais recente de um projeto em um repositório e a salva em seu computador.
 
